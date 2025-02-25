@@ -18,6 +18,7 @@ This project implements a nowcasting model on the ESP32 microcontroller using Ti
 ### Hardware
 - ESP32 Development Board
 - USB Cable for flashing and debugging
+- BME280 Sensor Module or Equivalent
 
 ### Software
 - Arduino IDE with ESP32 board support
